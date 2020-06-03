@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MaheshMudike/React-HelloProject-Sample.git/static/css/main.cd884e99.chunk.css",
+    "main.js": "/MaheshMudike/React-HelloProject-Sample.git/static/js/main.4dd43b34.chunk.js",
+    "main.js.map": "/MaheshMudike/React-HelloProject-Sample.git/static/js/main.4dd43b34.chunk.js.map",
+    "runtime-main.js": "/MaheshMudike/React-HelloProject-Sample.git/static/js/runtime-main.d69bc28c.js",
+    "runtime-main.js.map": "/MaheshMudike/React-HelloProject-Sample.git/static/js/runtime-main.d69bc28c.js.map",
+    "static/js/2.4bd3bb44.chunk.js": "/MaheshMudike/React-HelloProject-Sample.git/static/js/2.4bd3bb44.chunk.js",
+    "static/js/2.4bd3bb44.chunk.js.map": "/MaheshMudike/React-HelloProject-Sample.git/static/js/2.4bd3bb44.chunk.js.map",
+    "index.html": "/MaheshMudike/React-HelloProject-Sample.git/index.html",
+    "precache-manifest.d110e8ec8aea23c4ccb5e3386536ea7c.js": "/MaheshMudike/React-HelloProject-Sample.git/precache-manifest.d110e8ec8aea23c4ccb5e3386536ea7c.js",
+    "service-worker.js": "/MaheshMudike/React-HelloProject-Sample.git/service-worker.js",
+    "static/css/main.cd884e99.chunk.css.map": "/MaheshMudike/React-HelloProject-Sample.git/static/css/main.cd884e99.chunk.css.map",
+    "static/js/2.4bd3bb44.chunk.js.LICENSE.txt": "/MaheshMudike/React-HelloProject-Sample.git/static/js/2.4bd3bb44.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MaheshMudike/React-HelloProject-Sample.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d69bc28c.js",
+    "static/js/2.4bd3bb44.chunk.js",
+    "static/css/main.cd884e99.chunk.css",
+    "static/js/main.4dd43b34.chunk.js"
+  ]
+}
